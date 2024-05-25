@@ -58,7 +58,7 @@ An example is provided to demonstrate how to use the saved model and vectorizer 
 #### Files Included
 
 - `spam.csv`: The dataset.
-- `sms_spam_classification.ipynb`: Jupyter notebook containing the complete code.
+- `spam.ipynb`: Jupyter notebook containing the complete code.
 - `svm_linear_model.pkl`: Saved SVM model with linear kernel.
 - `tfidf_vectorizer.pkl`: Saved TF-IDF vectorizer.
 - `README.md`: Project description and instructions.
